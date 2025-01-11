@@ -1,4 +1,7 @@
-![За работой](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V0ZGF4YzdjYTFoZHBxd2pnaXpmdXd4MHZoNWlvMmFqcjJpNXV4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif))
+<div style="text-align: center;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V0ZGF4YzdjYTFoZHBxd2pnaXpmdXd4MHZoNWlvMmFqcjJpNXV4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" style="max-width: 100%; height: auto;" />
+</div>
+
 
 
 # Привет! 👋 Добро пожаловать в мой профиль
