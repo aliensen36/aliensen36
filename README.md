@@ -5,6 +5,9 @@
 
 ### 🛠️ Навыки и инструменты:
 - 🐍 Python, Django, DRF
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python)
+![Django](https://img.shields.io/badge/Django-REST-green?style=flat&logo=django)
+
 - 🗄️ PostgreSQL, Redis
 - 🐳 Docker
 - 📂 Git, GitHub
