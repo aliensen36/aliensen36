@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center" style="font-size: 30px;">
+<p align="center" style="font-size: 50px;">
   <strong>Привет! 👋 Добро пожаловать в мой профиль</strong>
 </p>
 
