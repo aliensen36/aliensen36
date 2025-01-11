@@ -1,4 +1,5 @@
-![За работой]([https://media.giphy.com/media/your-gif-link-here.gif](https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I))
+![За работой](https://media.giphy.com/media/9J7yVd46b8jLWo8mlq/giphy.gif)
+
 
 # Привет! 👋 Добро пожаловать в мой профиль
 
