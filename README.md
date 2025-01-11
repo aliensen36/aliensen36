@@ -86,9 +86,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliensen36&layout=compact)
 
 
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
-
-
-
