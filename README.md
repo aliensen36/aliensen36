@@ -76,12 +76,6 @@
 
 ---
 
-### 🚀 Статистика:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliensen36&show_icons=true&theme=radical)
-
----
-
-
 ### 🚀 Популярные языки:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliensen36&layout=compact)
 
