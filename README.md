@@ -42,6 +42,12 @@
   <img src="assets/images/celery-logo.png" alt="Celery" width="50" />
 </p>
 
+<p align="center">
+  <img src="assets/icons/dbeaver.png" alt="DBeaver" width="50" style="margin: 0 10px;">
+  <img src="assets/icons/openapi.png" alt="OpenAPI" width="50" style="margin: 0 10px;">
+  <img src="assets/icons/miro.png" alt="Miro" width="50" style="margin: 0 10px;">
+  <img src="assets/icons/celery.png" alt="Celery" width="50" style="margin: 0 10px;">
+</p>
 
 
 
