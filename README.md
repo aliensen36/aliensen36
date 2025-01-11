@@ -84,3 +84,7 @@
 
 ### 🚀 Популярные языки:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliensen36&layout=compact)
+
+
+![GitHub issues](https://img.shields.io/github/issues/username/repo)
+![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)
