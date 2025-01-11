@@ -1,4 +1,4 @@
-![За работой]([https://media.giphy.com/media/9J7yVd46b8jLWo8mlq/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V0ZGF4YzdjYTFoZHBxd2pnaXpmdXd4MHZoNWlvMmFqcjJpNXV4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif))
+![За работой](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V0ZGF4YzdjYTFoZHBxd2pnaXpmdXd4MHZoNWlvMmFqcjJpNXV4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif))
 
 
 # Привет! 👋 Добро пожаловать в мой профиль
