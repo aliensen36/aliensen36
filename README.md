@@ -1,16 +1,25 @@
-## Hi there 👋
+### Привет! 👋
+Меня зовут Катя, я Python-разработчик. 
+Увлекаюсь разработкой на Django, REST API, и работой с базами данных. 🎯
 
-<!--
-**aliensen36/aliensen36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🛠️ Навыки и инструменты:
+- 🐍 Python, Django, DRF
+- 🗄️ PostgreSQL, Redis
+- 🐳 Docker
+- 📂 Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Мои проекты:
+- 📰 [Новостной портал (Django)](https://github.com/aliensen36/NewsPortal)
+- 📢 [MMORPG-доска объявлений (Django)](https://github.com/aliensen36/CallBoard)
+- 🤖 [Бот для обмена валют (Telegram)](https://github.com/aliensen36/TB_currency_exchange)
+- 🌄 [REST API для перевалов (DRF)](https://github.com/aliensen36/Pereval_REST_API)
+
+
+### 📬 Как со мной связаться:
+- GitHub: [aliensen36](https://github.com/aliensen36)
+- Telegram: @KateAlexandrova
+(https://t.me/KateAlexandrova)
+- Email: aliensen65@gmail.com
+(mailto: aliensen65@gmail.com)
