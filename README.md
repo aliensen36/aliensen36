@@ -19,7 +19,5 @@
 
 ### 📬 Как со мной связаться:
 - GitHub: [aliensen36](https://github.com/aliensen36)
-- Telegram: @KateAlexandrova
-(https://t.me/KateAlexandrova)
+- Telegram: https://t.me/KateAlexandrova
 - Email: aliensen65@gmail.com
-(mailto: aliensen65@gmail.com)
