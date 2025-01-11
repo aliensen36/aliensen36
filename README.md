@@ -88,4 +88,5 @@
 
 
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Статистика](https://your-repo-url.com/your-chart.png)
+
