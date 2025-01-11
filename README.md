@@ -3,7 +3,7 @@
 </p>
 
 
-# Привет! 👋 Добро пожаловать в мой профиль</strong>
+#  Привет! 👋 Добро пожаловать в мой профиль</strong>
 
 
 
@@ -34,11 +34,6 @@
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" style="margin: 0 10px;">
 </p>
 
-
-
-
-
-
 ---
 
 
@@ -60,7 +55,6 @@
 Победа в хакатоне по разработке лендинга:
 [GitHub проекта](https://github.com/aliensen36/Points-of-view_2.0)
 
-
 ---
 
 ## 🎯 Обо мне
@@ -70,7 +64,7 @@
 
 ---
 
-### 📬 Как со мной связаться:
+## 📬 Как со мной связаться:
 - GitHub: [aliensen36](https://github.com/aliensen36)
 - Telegram: https://t.me/KateAlexandrova
 - Email: aliensen65@gmail.com
