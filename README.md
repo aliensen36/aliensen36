@@ -88,5 +88,6 @@
 
 
 
-![Статистика](https://your-repo-url.com/your-chart.png)
+![Активность](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+
 
