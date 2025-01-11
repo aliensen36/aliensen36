@@ -2,11 +2,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU0dHRxb25pdnZrNzcxcTJzbHVzemdxZ2ZvODJ4djRuYmdiMWoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N7ZiLbtDr84Yo/giphy.gif" alt="Снег">
 </p>
 
-
-
-
-
-
 # Привет! 👋 Добро пожаловать в мой профиль
 
 Я **backend-разработчик** на Python, специализируюсь на создании серверных приложений с использованием **Django** и **Django REST Framework (DRF)**. Участвую в интересных проектах, помогающих решать реальные задачи бизнеса и некоммерческих организаций.
@@ -25,6 +20,28 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="50" style="margin: 0 20px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" style="margin: 0 20px;">
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" style="margin: 0 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="50" style="margin: 0 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" alt="Django REST Framework" width="50" style="margin: 0 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" style="margin: 0 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="50" style="margin: 0 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" style="margin: 0 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" style="margin: 0 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="50" style="margin: 0 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" style="margin: 0 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" style="margin: 0 20px;">
+  <img src="https://dbeaver.com/docs/dbeaver/images/dbeaver-head.png" alt="DBeaver" width="50" style="margin: 0 20px;">
+  <img src="https://avatars.githubusercontent.com/u/33629490?s=200&v=4" alt="OpenAPI" width="50" style="margin: 0 20px;">
+  <img src="https://miro.medium.com/max/1400/1*o2cL23I5Pp5iHR6U8RxD4w.png" alt="Miro" width="50" style="margin: 0 20px;">
+  <img src="https://docs.celeryproject.org/en/stable/_static/celery_512.png" alt="Celery" width="50" style="margin: 0 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" style="margin: 0 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" style="margin: 0 20px;">
+</p>
+
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
