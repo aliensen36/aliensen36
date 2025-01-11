@@ -1,4 +1,7 @@
-![Снег](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU0dHRxb25pdnZrNzcxcTJzbHVzemdxZ2ZvODJ4djRuYmdiMWoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N7ZiLbtDr84Yo/giphy.gif)
+<div style="text-align: center;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU0dHRxb25pdnZrNzcxcTJzbHVzemdxZ2ZvODJ4djRuYmdiMWoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N7ZiLbtDr84Yo/giphy.gif" alt="Снег">
+</div>
+
 
 
 
