@@ -1,4 +1,4 @@
-![Женщина-программист за работой](https://media.giphy.com/media/your-gif-link-here.gif)
+![За работой]([https://media.giphy.com/media/your-gif-link-here.gif](https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I))
 
 # Привет! 👋 Добро пожаловать в мой профиль
 
