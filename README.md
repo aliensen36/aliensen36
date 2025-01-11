@@ -69,8 +69,6 @@
 - Telegram: https://t.me/KateAlexandrova
 - Email: aliensen65@gmail.com
 
----
-
 **Давайте сделаем что-то крутое вместе!** 😃  
 
 
