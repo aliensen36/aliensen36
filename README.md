@@ -27,12 +27,33 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliensen36&layout=compact)
 
 
-### 🚀 Мои проекты:
-- 📰 [Новостной портал (Django)](https://github.com/aliensen36/NewsPortal)
-- 📢 [MMORPG-доска объявлений (Django)](https://github.com/aliensen36/CallBoard)
-- 🤖 [Бот для обмена валют (Telegram)](https://github.com/aliensen36/TB_currency_exchange)
-- 🌄 [REST API для перевалов (DRF)](https://github.com/aliensen36/Pereval_REST_API)
+## 🚀 О проектах
 
+### НКО «Дари еду» 
+Разработка Telegram web app на Django REST Framework для благотворительного проекта "Дари еду":
+Ссылка на проект: [@dariEdu_app_bot](https://t.me/dariEdu_app_bot)
+
+### W2W Project 
+Разработка социальной сети для бизнеса в рамках хакатона:
+[GitHub проекта](https://github.com/Hashtagich/w2w-project)
+
+### Points of View 
+Разработка серверной части и админпанели сайта лаборатории «Точки зрения»:
+[GitHub проекта](https://github.com/aliensen36/Points_of_view_3.0)
+
+### Хакатон «Точки зрения» 
+Победа в хакатоне по разработке лендинга:
+[GitHub проекта](https://github.com/aliensen36/Points-of-view_2.0)
+
+
+---
+
+## 🎯 Обо мне
+- 🎓 Успешно завершила курс «Python-разработчик» в SkillFactory.
+- 💼 Постоянно развиваю навыки разработки серверных приложений.
+- 🤝 Отличные коммуникативные навыки, умение работать в команде.
+
+---
 
 ### 🚀 Статистика:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliensen36&show_icons=true&theme=radical)
@@ -41,3 +62,7 @@
 - GitHub: [aliensen36](https://github.com/aliensen36)
 - Telegram: https://t.me/KateAlexandrova
 - Email: aliensen65@gmail.com
+
+---
+
+**Давайте сделаем что-то крутое вместе!** 😃  
