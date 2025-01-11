@@ -32,10 +32,6 @@
 ---
 
 
-### 🚀 Популярные языки:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliensen36&layout=compact)
-
-
 ## 🚀 О проектах
 
 ### НКО «Дари еду» 
@@ -64,9 +60,6 @@
 
 ---
 
-### 🚀 Статистика:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliensen36&show_icons=true&theme=radical)
-
 ### 📬 Как со мной связаться:
 - GitHub: [aliensen36](https://github.com/aliensen36)
 - Telegram: https://t.me/KateAlexandrova
@@ -75,3 +68,15 @@
 ---
 
 **Давайте сделаем что-то крутое вместе!** 😃  
+
+
+---
+
+### 🚀 Статистика:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliensen36&show_icons=true&theme=radical)
+
+---
+
+
+### 🚀 Популярные языки:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliensen36&layout=compact)
