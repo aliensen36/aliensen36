@@ -28,6 +28,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" style="margin: 0 20px;">
 </p>
 
+<p align="center">
+  <img src="assets/icons/dbeaver-head.png" alt="DBeaver" width="50" style="margin: 0 20px;">
+  <img src="assets/icons/openapi-logo.png" alt="OpenAPI" width="50" style="margin: 0 20px;">
+  <img src="assets/icons/miro-logo.png" alt="Miro" width="50" style="margin: 0 20px;">
+  <img src="assets/icons/celery-logo.png" alt="Celery" width="50" style="margin: 0 20px;">
+</p>
+
 
 
 
