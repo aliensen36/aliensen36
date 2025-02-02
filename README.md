@@ -2,10 +2,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUxN21mNHlwazN0ejB5NGNmNWpzNndudzN2dHVtamN1ZGZ4dWo3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lRrsraIsEYRW/giphy.gif">
 </p>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE2ampxdG9nZXdocGJnZDBubGYybWg1dWU5N3dhczBicWx5YTg5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aS8zKYFHbng6NW/giphy.gif">
-</p>
-
 
 #  Привет! 👋 Добро пожаловать в мой профиль</strong>
 
