@@ -42,7 +42,7 @@
 Разработка Telegram web app на Django REST Framework для благотворительного проекта "Дари еду":
 Ссылка на проект: [@dariEdu_app_bot](https://t.me/dariEdu_app_bot)
 
-### W2W Project 
+### W2W 
 Разработка социальной сети для бизнеса в рамках хакатона:
 [GitHub проекта](https://github.com/Hashtagich/w2w-project)
 
@@ -50,7 +50,7 @@
 Разработка серверной части и админпанели сайта лаборатории «Точки зрения»:
 [GitHub проекта](https://github.com/aliensen36/Points_of_view_3.0)
 
-### Хакатон «Точки зрения» 
+### Точки зрения
 Победа в хакатоне по разработке лендинга:
 [GitHub проекта](https://github.com/aliensen36/Points-of-view_2.0)
 
