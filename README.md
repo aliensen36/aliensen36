@@ -24,7 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" style="margin: 0 20px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" style="margin: 0 20px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" style="margin: 0 20px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" width="100" style="margin: 0 20px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
+     alt="SQLAlchemy" 
+     width="100" 
+     style="margin: 0 20px; vertical-align: middle;">
 </p>
 
 <p align="center">
