@@ -41,10 +41,10 @@
 
 ### «Дизайн завод» 
 Разработка Telegram mini app для арт-пространства "Дизайн завод":
-Ссылка на проект: [@dariEdu_app_bot](https://t.me/dariEdu_app_bot)
+Ссылка на проект: [@Art_Zavod_Bot](https://t.me/Art_Zavod_Bot)
 
 ### НКО «Дари еду» 
-Разработка Telegram web app на Django REST Framework для благотворительного проекта "Дари еду":
+Разработка Telegram mini app на Django REST Framework для благотворительного проекта "Дари еду":
 Ссылка на проект: [@dariEdu_app_bot](https://t.me/dariEdu_app_bot)
 
 ### W2W 
